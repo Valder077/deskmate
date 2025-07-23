@@ -26,6 +26,7 @@ I wanted to add a pen holder case but i dont want to make him too clunky and not
 Okay sorry dipped for a while because I was rushing some school stuff and also had hackpad submissions before undercity. Today was the day i do my schematic yay. 
 
 ![schematic](https://github.com/Valder077/deskmate/blob/main/img/schematic.jpg?raw=true)
+![pcbdesk](https://github.com/Valder077/deskmate/blob/main/img/pcbdesk.jpg?raw=true)
 
 Ngl, i really wanted to add leds at the sides of the screen so my deskmate can blush when i feed him/ show him some love but I'm not too familiar with using LEDs and I would need resistors too and I dont know if I would have time to source all these after undercity when i submit this project given I have some tests after undercity too. 
 
