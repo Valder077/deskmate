@@ -42,7 +42,7 @@ Today I worked on CAD (my favourite part). Honestly back when i was doing the ha
 
 Turns out I dont have pictures from the progress I made that day because im doing this journal entry a whole week later but you can take a look at the finished CAD. 
 
-(CAD jpg)
+![bottom](https://github.com/Valder077/deskmate/blob/main/img/bottom.jpg?raw=true)
 
 On this day I had finished the bottom casing to an extent(basic without any extra things)
 
@@ -51,10 +51,13 @@ On this day I had finished the bottom casing to an extent(basic without any extr
 
 Hi its been very many days and thats because i went to undercity. The event was so fire and I talked to so many new people and honestly one of the most surreal experiences of my life. But okay back to locking in. Today CAD is finished with all my extra decoration i added. I made his arms into lego like arms too since i thought they were cute and added some ears too. Added a base because I realised he may be a bit too thin for stability and added the keychain hole too. Finished up the top case of the deskmate too and really took quite a long time for adjusing the placement of the holes. But yay our CAD's done now!! Honestly I'm proud of how he looks though i wanted a bigger oled screen but i already have a 0.96 inch and I dont want to waste time ordering a bigger one. Now, all thats left is for me to sort out the functionality of the oled screen and draw out our deskmate. 
 
+![top](https://github.com/Valder077/deskmate/blob/main/img/top.jpg?raw=true)
+![full](https://github.com/Valder077/deskmate/blob/main/img/full.jpg?raw=true)
+
 
 # 21 July 
 
-Hi I've been quite busy after undercity because I took a leave from school and there's so mcuh things to catch up on. But today, we work on our oled screen animations. So heres a few clips of how our deskmate is going to look like. Finished up the normal face, eating face (1st switch), and  (something face), 2nd switch. I had to research a lot for this part because this stuff was really new to me but we did it!!!!
+Hi I've been quite busy after undercity because I took a leave from school and there's so much things to catch up on. But today, we work on our oled screen animations. So heres a few clips of how our deskmate is going to look like. Finished up the normal face, eating face (1st switch), and  (something face), 2nd switch. I had to research a lot for this part because this stuff was really new to me but we did it!!!!
 
 (desk mate animations )
 
