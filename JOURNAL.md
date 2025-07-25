@@ -71,4 +71,4 @@ Today I did some research again and finally finished the firmware for the pomodo
 (timer photo)
 
 # 25 July
-Had to make some final refinements. 
+Had to make some final refinements to the 
