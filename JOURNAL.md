@@ -61,15 +61,17 @@ Hi its been very many days and thats because i went to undercity. The event was 
 
 Hi I've been quite busy after undercity because I took a leave from school and there's so much things to catch up on. But today, we work on our oled screen animations. So heres a few clips of how our deskmate is going to look like. Finished up the normal face, eating face (1st switch), and  a bit of theanimations for the 2nd switch. However, I feel like i can only I had to research a lot for this part because this stuff was really new to me but we did it!!!!
 
-(desk mate animations )
-(photo of heart)
+![smile](https://github.com/Valder077/deskmate/blob/main/img/smile.png?raw=true)
+
+This is another face due to the first switch:
+![heart](https://github.com/Valder077/deskmate/blob/main/img/heart.png?raw=true)
 
 
 
 # 23 July (2 hours)
 Today I did some research again and finally finished the firmware for the pomodoro timer which the 3rd and 4th switch will control AND WE'RE DONE!!! Heres a picture of how its going to look like. 
 
-(timer photo)
+![timer](https://github.com/Valder077/deskmate/blob/main/img/timer.png?raw=true)
 
 # 25 July (1.5 hours)
 Had to make some final refinements to the CAD to make it a bit more polished and had to update a lot of files in my repo and update my journal because i forgot again lol.  
