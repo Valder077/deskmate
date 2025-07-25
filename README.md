@@ -13,6 +13,7 @@ This is how my PCB looks like
 This is a picture of my CAD
 ![full](https://github.com/Valder077/deskmate/blob/main/img/full.jpg?raw=true)
 
+
 And this is one more with the components included 
 ![deskcomponent](https://github.com/Valder077/deskmate/blob/main/img/deskcomponent.png?raw=true)
 
