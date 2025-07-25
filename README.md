@@ -21,7 +21,7 @@ And this is one more with the components included
 
 ## animations 
 You can check out more about animations in my journals 
-(gif)
+![animation](https://github.com/Valder077/deskmate/blob/main/img/animation.gif?raw=true)
 
 
 ## BOM
