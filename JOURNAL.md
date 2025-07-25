@@ -1,4 +1,4 @@
-# 5-6 July(Sorry the timings of the documentation isn't very exact bc i forgot lol)
+# 5-6 July(Sorry the timings of the documentation isn't very exact bc i forgot lol) (1 hour)
 So basically my idea for this project stems from the fact that I would generally say that I have a pretty packed schedule every single day. School until 4 and Dragon Boat training from 5-7.30 and I come back home at 8.30 every single day to do my homework. 
 
 So most of my studying and homework gets done quite late in the night when its all quiet in the house and I can't lie sometimes it tends to gets hard to stay motivated to study. 
@@ -21,7 +21,7 @@ I also plan to add a keychain hole at the side because I'm a guy who needs a con
 I wanted to add a pen holder case but i dont want to make him too clunky and not so portable. 
 
 
-# 8 July
+# 8 July 1.5 hours
 
 Okay sorry dipped for a while because I was rushing some school stuff and also had hackpad submissions before undercity. Today was the day i do my schematic yay. 
 
@@ -38,7 +38,7 @@ This is how my PCB is going to look.
 Not going to lie figuring out the wiring for the tactile switches and then wiring all the led's and then deciding against it took some time but hey its all a learning process and I loved every second of it. 
 
 
-# 9 July 
+# 9 July (3 hours)
 Today I worked on CAD (my favourite part). Honestly back when i was doing the hackpad I crashed out so hard because I was new to fusion and my laptop is like from the 1900s so it was practically overheating the second i started up fusion, but honestly once you understand it its quite fun. 
 
 Turns out I dont have pictures from the progress I made that day because im doing this journal entry a whole week later but you can take a look at the finished CAD. 
@@ -48,7 +48,7 @@ Turns out I dont have pictures from the progress I made that day because im doin
 On this day I had finished the bottom casing to an extent(basic without any extra things)
 
 
-# 17 July 
+# 17 July (2 hours)
 
 Hi its been very many days and thats because i went to undercity. The event was so fire and I talked to so many new people and honestly one of the most surreal experiences of my life. But okay back to locking in. Today CAD is finished with all my extra decoration i added. I made his arms into lego like arms too since i thought they were cute and added some ears too. Added a base because I realised he may be a bit too thin for stability and added the keychain hole too. Finished up the top case of the deskmate too and really took quite a long time for adjusing the placement of the holes. But yay our CAD's done now!! Honestly I'm proud of how he looks though i wanted a bigger oled screen but i already have a 0.96 inch and I dont want to waste time ordering a bigger one. Now, all thats left is for me to sort out the functionality of the oled screen and draw out our deskmate. 
 
@@ -57,7 +57,7 @@ Hi its been very many days and thats because i went to undercity. The event was 
 ![deskcomponent](https://github.com/Valder077/deskmate/blob/main/img/deskcomponent.png?raw=true)
 
 
-# 21 July 
+# 21 July (3.5 hours)
 
 Hi I've been quite busy after undercity because I took a leave from school and there's so much things to catch up on. But today, we work on our oled screen animations. So heres a few clips of how our deskmate is going to look like. Finished up the normal face, eating face (1st switch), and  a bit of theanimations for the 2nd switch. However, I feel like i can only I had to research a lot for this part because this stuff was really new to me but we did it!!!!
 
@@ -66,10 +66,11 @@ Hi I've been quite busy after undercity because I took a leave from school and t
 
 
 
-# 23 July
+# 23 July (2 hours)
 Today I did some research again and finally finished the firmware for the pomodoro timer which the 3rd and 4th switch will control AND WE'RE DONE!!! Heres a picture of how its going to look like. 
 
 (timer photo)
 
-# 25 July
+# 25 July (1.5 hours)
 Had to make some final refinements to the CAD to make it a bit more polished and had to update a lot of files in my repo and update my journal because i forgot again lol.  
+
