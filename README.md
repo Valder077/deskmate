@@ -15,3 +15,5 @@ This is a picture of my CAD
 
 And this is one more with the components included 
 ![deskcomponent](https://github.com/Valder077/deskmate/blob/main/img/deskcomponent.png?raw=true)
+
+You can check out the oled animations in my journal
