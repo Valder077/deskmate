@@ -61,9 +61,10 @@ Hi its been very many days and thats because i went to undercity. The event was 
 
 Hi I've been quite busy after undercity because I took a leave from school and there's so much things to catch up on. But today, we work on our oled screen animations. So heres a few clips of how our deskmate is going to look like. Finished up the normal face, eating face (1st switch), and  a bit of theanimations for the 2nd switch. However, I feel like i can only I had to research a lot for this part because this stuff was really new to me but we did it!!!!
 
-![smile](https://github.com/Valder077/deskmate/blob/main/img/smile.png?raw=true)
+![smile](https://github.com/Valder077/deskmate/blob/main/img/smile.jpg?raw=true)
 
 This is another face due to the first switch:
+
 ![heart](https://github.com/Valder077/deskmate/blob/main/img/heart.png?raw=true)
 
 

@@ -3,13 +3,15 @@ A deskmate to keep you company during your late night study sessions(or anytime 
 
 I wanted to make something that would motivate me to study even during times where im just studying alone late at night, to remind me to push through and hence i decided to make deskmate, since I thought it would be really cool and also something that I would find cute and useful. 
 
-# screenshots 
+## schematic 
 This is my schematic 
 ![schematic](https://github.com/Valder077/deskmate/blob/main/img/schematic.jpg?raw=true)
 
+## PCB
 This is how my PCB looks like 
 ![pcbdesk](https://github.com/Valder077/deskmate/blob/main/img/pcbdesk.jpg?raw=true)
 
+## CAD
 This is a picture of my CAD
 ![full](https://github.com/Valder077/deskmate/blob/main/img/full.jpg?raw=true)
 
@@ -17,4 +19,21 @@ This is a picture of my CAD
 And this is one more with the components included 
 ![deskcomponent](https://github.com/Valder077/deskmate/blob/main/img/deskcomponent.png?raw=true)
 
-You can check out the oled animations in my journal
+## animations 
+You can check out more about animations in my journals 
+(gif)
+
+
+## BOM
+ 
+ | Part                           | Source                                                                                                                                                                                                                                                       | Cost |
+|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
+| XIAO ESP32S3                   | https://shopee.sg/1pc-Seeeduino-Seeed-Studio-XIAO-ESP32-S3-ESP32S3-2.4G-WiFi-Bluetooth-com-BLE-Mesh-5.0-Development-Board-Module-For-Arduino-i.1558808530.40556404696?sp_atk=3c55a6c8-62fd-4a94-ae5c-47d99df13703&xptdk=3c55a6c8-62fd-4a94-ae5c-47d99df13703 | $15  |
+| 0.96"" I2C 128x64 OLED Display | Have already                                                                                                                                                                                                                                                 | NA   |
+| Cherry MX Switches             | Have already                                                                                                                                                                                                                                                 | NA   |
+| Blank keycaps                  | Have already                                                                                                                                                                                                                                                 | NA   |
+| PCB                            | JLCPCB                                                                                                                                                                                                                                                       | $18  |
+| 3D printed case                | Print myself                                                                                                                                                                                                                                                 | NA   |
+|                                |                                                                                                                                                                                                                                                              |      |
+|                                | Total                                                                                                                                                                                                                                                        | $33  |
+
