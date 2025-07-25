@@ -54,6 +54,7 @@ Hi its been very many days and thats because i went to undercity. The event was 
 
 ![top](https://github.com/Valder077/deskmate/blob/main/img/top.jpg?raw=true)
 ![full](https://github.com/Valder077/deskmate/blob/main/img/full.jpg?raw=true)
+![deskcomponent](https://github.com/Valder077/deskmate/blob/main/img/deskcomponent.png?raw=true)
 
 
 # 21 July 
@@ -71,4 +72,4 @@ Today I did some research again and finally finished the firmware for the pomodo
 (timer photo)
 
 # 25 July
-Had to make some final refinements to the 
+Had to make some final refinements to the CAD to make it a bit more polished and had to update a lot of files in my repo and update my journal because i forgot again lol.  
