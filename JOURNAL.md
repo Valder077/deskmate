@@ -58,11 +58,17 @@ Hi its been very many days and thats because i went to undercity. The event was 
 
 # 21 July 
 
-Hi I've been quite busy after undercity because I took a leave from school and there's so much things to catch up on. But today, we work on our oled screen animations. So heres a few clips of how our deskmate is going to look like. Finished up the normal face, eating face (1st switch), and  (something face), 2nd switch. I had to research a lot for this part because this stuff was really new to me but we did it!!!!
+Hi I've been quite busy after undercity because I took a leave from school and there's so much things to catch up on. But today, we work on our oled screen animations. So heres a few clips of how our deskmate is going to look like. Finished up the normal face, eating face (1st switch), and  a bit of theanimations for the 2nd switch. However, I feel like i can only I had to research a lot for this part because this stuff was really new to me but we did it!!!!
 
 (desk mate animations )
+(photo of heart)
 
 
 
 # 23 July
-Today we sort out our pomodoro timers 
+Today I did some research again and finally finished the firmware for the pomodoro timer which the 3rd and 4th switch will control AND WE'RE DONE!!! Heres a picture of how its going to look like. 
+
+(timer photo)
+
+# 25 July
+Had to make some final refinements. 
