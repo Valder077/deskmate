@@ -11,31 +11,22 @@ U8G2_SSD1306_128X64_NONAME_F_HW_I2C display(U8G2_R0, /* reset = */ U8X8_PIN_NONE
 #define SW3_PIN  3   // GPIO3 / D2 / A2
 #define SW4_PIN  4   // GPIO4 / D3 / A3
 
-// Buttons are wired to GND in your schematic -> use INPUT_PULLUP (pressed = LOW)
 #define PRESSED(state) ((state) == LOW)
 
 // --------------------------- TIMING ----------------------------------
 const uint32_t BTN_DEBOUNCE_MS  = 25;
-const uint32_t SHOW_TIME_MS     = 3000;   // how long to show the final stopwatch time
+const uint32_t SHOW_TIME_MS     = 3000;   /
 
 // --------------------------- BITMAPS ---------------------------------
-// Put your bitmaps here (generated arrays from your existing .ino).
-// Each frame must be 128x64 monochrome XBM (1-bit per pixel).
 
-// Example tiny dummy 16x16 icon just so the sketch compiles without your assets.
-// DELETE these dummies and paste your real 128x64 frames.
+
+
 static const unsigned char PROGMEM dummy16x16[] = {
   0xFF,0xFF,0x81,0x81,0xBD,0xBD,0xA5,0xA5,
   0xA5,0xA5,0xBD,0xBD,0x81,0x81,0xFF,0xFF
 };
 
-// --- Declare your frames like this -----------------------------------
-// extern const unsigned char frame_idle_0[] PROGMEM;
-// extern const unsigned char frame_idle_1[] PROGMEM;
-// ...
-// Then list them in arrays below.
 
-// For now we'll just point to the dummy so the structure works:
 const uint8_t* const idleFrames[] PROGMEM = {
   dummy16x16, dummy16x16
 };
@@ -46,20 +37,20 @@ const uint8_t* const anim2Frames[] PROGMEM = {
   dummy16x16, dummy16x16
 };
 
-// Frame counts & frame delays (tune to your liking)
+
 const uint8_t  IDLE_COUNT   = sizeof(idleFrames)  / sizeof(idleFrames[0]);
 const uint8_t  ANIM1_COUNT  = sizeof(anim1Frames) / sizeof(anim1Frames[0]);
 const uint8_t  ANIM2_COUNT  = sizeof(anim2Frames) / sizeof(anim2Frames[0]);
 
-const uint16_t IDLE_DELAY   = 80;   // ms between idle frames
+const uint16_t IDLE_DELAY   = 80;   
 const uint16_t ANIM1_DELAY  = 60;
 const uint16_t ANIM2_DELAY  = 60;
 
-// Your frames are 128x64. Change if you used something else.
+
 const uint8_t  FRAME_W = 128;
 const uint8_t  FRAME_H = 64;
 
-// --------------------------- STATE MACHINE ---------------------------
+
 enum Mode {
   MODE_IDLE,
   MODE_ANIM1,
@@ -70,17 +61,17 @@ enum Mode {
 
 Mode mode = MODE_IDLE;
 
-// animation bookkeeping
+
 uint8_t   frameIndex    = 0;
 uint32_t  nextFrameTime = 0;
 
-// stopwatch bookkeeping
+
 bool      stopwatchRunning = false;
 uint32_t  swStart          = 0;
 uint32_t  swStop           = 0;
 uint32_t  showUntil        = 0;
 
-// --------------------------- BUTTON HANDLER --------------------------
+
 struct Btn {
   uint8_t  pin;
   bool     lastStable;
@@ -106,11 +97,11 @@ bool readButton(Btn& b) {
   return false;
 }
 
-// --------------------------- HELPERS ---------------------------------
+
 void drawFrame(const uint8_t* bmp) {
   display.clearBuffer();
-  // If you use real 128x64 frames, use drawXBMP(0,0,128,64,bmp);
-  // The dummy icon is only 16x16, so let's center it for the sample.
+
+
   if (FRAME_W == 128 && FRAME_H == 64 && bmp != dummy16x16) {
     display.drawXBMP(0, 0, FRAME_W, FRAME_H, bmp);
   } else {
@@ -127,7 +118,7 @@ void resetAnimation(uint8_t startIndex = 0) {
 void playAnimationStep(const uint8_t* const* frames, uint8_t count, uint16_t delayMs, bool loop, Mode nextModeIfDone) {
   uint32_t now = millis();
   if (now >= nextFrameTime) {
-    // read pointer from PROGMEM
+ 
     const uint8_t* f = (const uint8_t*)pgm_read_ptr(&frames[frameIndex]);
     drawFrame(f);
 
@@ -153,7 +144,7 @@ void drawStopwatch(uint32_t elapsedMs) {
   snprintf(buf, sizeof(buf), "%02lu:%02lu.%03lu", (unsigned long)m, (unsigned long)s, (unsigned long)ms);
 
   display.clearBuffer();
-  display.setFont(u8g2_font_logisoso24_tr); // pick any u8g2 font you like
+  display.setFont(u8g2_font_logisoso24_tr); 
   uint16_t w = display.getStrWidth(buf);
   display.drawStr((128 - w) / 2, 42, buf);
 

@@ -60,7 +60,7 @@ Hi its been very many days and thats because i went to undercity. The event was 
 
 # 21 July (3.5 hours)
 
-Hi I've been quite busy after undercity because I took a leave from school and there's so much things to catch up on. But today, we work on our oled screen animations. So heres a few clips of how our deskmate is going to look like. Finished up the normal face, eating face (1st switch), and  a bit of theanimations for the 2nd switch. However, I feel like i can only I had to research a lot for this part because this stuff was really new to me but we did it!!!!
+Hi I've been quite busy after undercity because I took a leave from school and there's so much things to catch up on. But today, we work on our oled screen animations. So heres a few clips of how our deskmate is going to look like. Finished up the normal face, eating face (1st switch), and  a bit of the    animations for the 2nd switch. However, I feel like i can only ensure all the animations work properly once I get my actual hardware components so I will probably refine the firmware then because I will be able to experiment with it. I had to research a lot for this part because this stuff was really new to me but we did it!!!!
 
 ![smile](https://github.com/Valder077/deskmate/blob/main/img/smile.jpg?raw=true)
 
