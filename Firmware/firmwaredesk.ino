@@ -2,10 +2,10 @@
 #include <Wire.h>
 #include <U8g2lib.h>
 
-// --------------------------- DISPLAY ---------------------------------
+
 U8G2_SSD1306_128X64_NONAME_F_HW_I2C display(U8G2_R0, /* reset = */ U8X8_PIN_NONE);
 
-// --------------------------- PINS ------------------------------------
+
 #define SW1_PIN  1   // GPIO1 / D0 / A0
 #define SW2_PIN  2   // GPIO2 / D1 / A1
 #define SW3_PIN  3   // GPIO3 / D2 / A2
@@ -13,11 +13,9 @@ U8G2_SSD1306_128X64_NONAME_F_HW_I2C display(U8G2_R0, /* reset = */ U8X8_PIN_NONE
 
 #define PRESSED(state) ((state) == LOW)
 
-// --------------------------- TIMING ----------------------------------
+
 const uint32_t BTN_DEBOUNCE_MS  = 25;
 const uint32_t SHOW_TIME_MS     = 3000;   /
-
-// --------------------------- BITMAPS ---------------------------------
 
 
 
