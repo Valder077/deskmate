@@ -2076,7 +2076,7 @@ const unsigned char epd_bitmap_08 [] PROGMEM = {
 	0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00
 };
 
-// Array of all bitmaps for convenience. (Total bytes used to store images in PROGMEM = 32240)
+
 const int epd_bitmap_allArray_LEN = 31;
 const unsigned char* epd_bitmap_allArray[31] = {
 	epd_bitmap_00,

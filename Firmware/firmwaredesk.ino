@@ -6,10 +6,10 @@
 U8G2_SSD1306_128X64_NONAME_F_HW_I2C display(U8G2_R0, /* reset = */ U8X8_PIN_NONE);
 
 
-#define SW1_PIN  1   // GPIO1 / D0 / A0
-#define SW2_PIN  2   // GPIO2 / D1 / A1
-#define SW3_PIN  3   // GPIO3 / D2 / A2
-#define SW4_PIN  4   // GPIO4 / D3 / A3
+#define SW1_PIN  1   
+#define SW2_PIN  2   
+#define SW3_PIN  3   
+#define SW4_PIN  4  
 
 #define PRESSED(state) ((state) == LOW)
 
@@ -90,7 +90,7 @@ bool readButton(Btn& b) {
   }
   if (millis() - b.lastChange > BTN_DEBOUNCE_MS && raw != b.lastStable) {
     b.lastStable = raw;
-    if (PRESSED(raw)) return true;  // rising "press" event
+    if (PRESSED(raw)) return true;  
   }
   return false;
 }
