@@ -125,3 +125,5 @@ Heres an example of something that went wrong:
 # 10 August (3 hours)
 Made my poster!
 ![posterpic](https://github.com/Valder077/deskmate/blob/main/img/poster.jpg?raw=true)
+
+

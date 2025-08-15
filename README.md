@@ -25,6 +25,12 @@ You can check out more about animations in my journals
 ![animation1](https://github.com/Valder077/deskmate/blob/main/img/animation1.gif?raw=true)
 
 
+## Final product 
+YAY ITS DONE!
+![deskfinal](https://github.com/Valder077/deskmate/blob/main/img/deskfinal.png?raw=true)
+
+youtube link : https://www.youtube.com/watch?v=puzSfpu7b3g
+
 ## BOM
  
  | Part                           | Source                                                                                                                                                                                                                                                       | Cost |
