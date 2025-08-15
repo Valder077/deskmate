@@ -1,4 +1,4 @@
-## Total 42 hours 
+## Total 40 hours 
 # 5-6 July(Sorry the timings of the documentation isn't very exact bc i forgot lol) (1 hour)
 So basically my idea for this project stems from the fact that I would generally say that I have a pretty packed schedule every single day. School until 4 and Dragon Boat training from 5-7.30 and I come back home at 8.30 every single day to do my homework. 
 
