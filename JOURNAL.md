@@ -97,7 +97,7 @@ I spent some time trying to purchase a new ESP32 but every place I went to (incl
 
 # 5 August (5 hours)
 MY HACKPAD KIT CAME. This means I have an extra RP2040 I can use since I had bought my own for my hackpad. I bought some jumper wires too and decided to manually wire and solder everything (i just wired the oled screen today not the key switches) and MY OLED WORKS!!!
-![smilepic](https://github.com/Valder077/deskmate/blob/main/img/smilpic.jpg?raw=true)
+![smilepic](https://github.com/Valder077/deskmate/blob/main/img/smilepic.jpg?raw=true)
 ![wirepic](https://github.com/Valder077/deskmate/blob/main/img/wirepic.jpg?raw=true)
 
 
