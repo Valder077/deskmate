@@ -1,4 +1,4 @@
-## Total 14 hours 
+## Total 42 hours 
 # 5-6 July(Sorry the timings of the documentation isn't very exact bc i forgot lol) (1 hour)
 So basically my idea for this project stems from the fact that I would generally say that I have a pretty packed schedule every single day. School until 4 and Dragon Boat training from 5-7.30 and I come back home at 8.30 every single day to do my homework. 
 
@@ -76,5 +76,52 @@ Today I did some research again and finally finished the firmware for the pomodo
 ![timer](https://github.com/Valder077/deskmate/blob/main/img/timer.png?raw=true)
 
 # 25 July (1.5 hours)
-Had to make some final refinements to the CAD to make it a bit more polished and had to update a lot of files in my repo and update my journal because i forgot again lol.  
+Had to make some final refinements to the CAD to make it a bit more polished and had to update a lot of files in my repo and update my journal because i forgot again lol. 
 
+# 2 August (3 hours)
+Finally bought all my parts and tried soldering them. However, I had some soldering issues with the esp32s3 so i guess i'll continue with that another day 
+(forgot to take pic of post soldering lol)
+
+Painted my entire deskmate and had to repaint a few layers too since it didn't stick very well.
+![basepic](https://github.com/Valder077/deskmate/blob/main/img/basepic.jpg?raw=true)
+![basepic2](https://github.com/Valder077/deskmate/blob/main/img/basepic2.jpg?raw=true)
+![evthpic](https://github.com/Valder077/deskmate/blob/main/img/evthpic.jpg?raw=true)
+
+
+
+# 3 August (2 hours)
+Tried to solder my ESP32 and the solder kept joining but I finally soldered it correctly and tried to make it work but I could not get the oled screen to work :C. I figured out that I had soldered it wrong which means I need to probably buy a new ESP32s3
+
+# 4 August (1 hour)
+I spent some time trying to purchase a new ESP32 but every place I went to (including the place I initially bought it from) was sold out. So I spent some time reasearching for alternatives.
+
+# 5 August (5 hours)
+MY HACKPAD KIT CAME. This means I have an extra RP2040 I can use since I had bought my own for my hackpad. I bought some jumper wires too and decided to manually wire and solder everything (i just wired the oled screen today not the key switches) and MY OLED WORKS!!!
+![smilepic](https://github.com/Valder077/deskmate/blob/main/img/smilpic.jpg?raw=true)
+![wirepic](https://github.com/Valder077/deskmate/blob/main/img/wirepic.jpg?raw=true)
+
+
+
+
+# 6 August (4 hours)
+I realised my firmware had quite a few issues so i decided to fix the firmware for each animation and also draw new animations over the next few days. Today I spent some time fixing my clock timer!
+![timerpic](https://github.com/Valder077/deskmate/blob/main/img/timerpic.jpg?raw=true)
+
+
+
+ # 7 August (5 hours)
+ Wired all my keyswitches too.
+ Had a lot of issues with rive when making animations so I had to redo a few of the animations. Made it such that my first two buttons work too (All the buttons work now!!)
+ ![animpic](https://github.com/Valder077/deskmate/blob/main/img/animpic.jpg?raw=true)
+
+
+# 8 August (3 hours)
+Had to do some trouble shooting since I had issues like my oled screen animations came upside down, or in the wrong colour (white background black lines instead)
+Heres an example of something that went wrong:
+
+![wrongpic](https://github.com/Valder077/deskmate/blob/main/img/wrongpic.jpg?raw=true)
+
+
+# 10 August (3 hours)
+Made my poster!
+![posterpic](https://github.com/Valder077/deskmate/blob/main/img/poster.jpg?raw=true)
